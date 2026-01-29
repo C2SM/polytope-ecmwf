@@ -15,7 +15,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 # Install dependencies
-pip install polytope-python
+pip install polytope-client
 ```
 
 Afterwards, one can run the test script:
